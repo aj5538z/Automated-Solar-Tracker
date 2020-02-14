@@ -12,4 +12,4 @@ aj5538z
 
 Creation date: 14/02/2020
 
-System version: 1.0.0.1
+System version: 1.0.0.2
