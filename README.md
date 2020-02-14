@@ -1,2 +1,3 @@
 # Automated-Solar-Tracker
-This is a repository for project 3: automated solar tracker
+
+This repository is for the foundation year final project, building an autonomous solar tracking robot.
